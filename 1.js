@@ -36,3 +36,5 @@ var WEEK;
     WEEK[WEEK["tuesday"] = 2] = "tuesday";
 })(WEEK || (WEEK = {}));
 console.log(WEEK.mondy);
+
+//2222222222
