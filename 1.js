@@ -36,5 +36,6 @@ var WEEK;
     WEEK[WEEK["tuesday"] = 2] = "tuesday";
 })(WEEK || (WEEK = {}));
 console.log(WEEK.mondy);
+// dev_1  的提交
 
 //2222222222
